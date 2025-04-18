@@ -34,9 +34,10 @@ This Unity-based mobile AR application places a **world-locked 3D space shuttle*
 - Jittery rotation on some devices
 - Requires real device (no emulators)
 
-
 ## 👤 Author
-- **Name**: Alekhya vaddineni
+- **Name**: Alekhya Vaddineni  
 - **Email**: vaddinea@mail.gvsu.edu 
-- **Target Device**: Android (Galaxy A15 5G.)
+- **Target Device**: Android (Samusung galaxy A15)
 
+## 📜 License
+MIT License
